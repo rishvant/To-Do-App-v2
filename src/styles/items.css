@@ -1,0 +1,49 @@
+.items-list{
+    margin-top: 20px;
+}
+
+.items{
+    list-style: none;
+    text-align: left;
+    margin: 0;
+}
+
+.item{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    text-align: left;
+}
+
+.items-date{
+    list-style: none;
+    text-align: left;
+    margin: 0;
+}
+
+.item-date{
+    margin-top: 10px;
+    margin-left: 55px;
+    margin-right: 0;
+    font-size: 20px;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
+
+.delete-btn{
+    width: 165%;
+}
+
+.container{
+    margin-top: 5%;
+}
+
+.row{
+    margin-top: 2%;
+}
+
+.delete-icon{
+    font-size: 20px;
+    margin-bottom: 2px;
+}
